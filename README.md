@@ -1,1 +1,3 @@
-# generative-art
+# Generative Art
+
+
