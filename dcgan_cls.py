@@ -1,6 +1,6 @@
 # dcgan_cls.py
 # Author: Keanu Spies
-# Inspired By: https://github.com/pytorch/examples/blob/master/dcgan/main.py
+# Parts inspired By: https://github.com/pytorch/examples/blob/master/dcgan/main.py
 
 from __future__ import print_function
 import argparse
